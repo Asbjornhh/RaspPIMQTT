@@ -4,7 +4,7 @@ import time
 
 # DHT11 setup
 DHT_SENSOR = Adafruit_DHT.DHT11
-DHT_PIN = 4
+DHT_PIN = 17
 
 # MQTT setuppip
 MQTT_BROKER = "broker.hivemq.com"
