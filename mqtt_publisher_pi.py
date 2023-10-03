@@ -7,7 +7,7 @@ DHT_SENSOR = Adafruit_DHT.DHT11
 DHT_PIN = 4
 
 # MQTT setuppip
-MQTT_BROKER = "broker.hive.mq"
+MQTT_BROKER = "broker.hivemq.com"
 MQTT_PORT = 1883
 MQTT_TOPIC = "home/sensor/dht11"
 

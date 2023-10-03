@@ -1,7 +1,7 @@
 import paho.mqtt.client as mqtt
 
 # MQTT setup
-MQTT_BROKER = "broker.hive.mq"
+MQTT_BROKER = "broker.hivemq.com"
 MQTT_PORT = 1883
 MQTT_TOPIC = "home/sensor/dht11"
 
