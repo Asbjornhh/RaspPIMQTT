@@ -29,6 +29,6 @@ while True:
     if humidity is not None and temperature is not None:
         payload = f"Temperature: {temperature}C, Humidity: {humidity}%"
         client.publish(MQTT_TOPIC, payload)
-        time.sleep(60)
+        time.sleep(3)
     else:
         print("Failed to retrieve data from sensor")
