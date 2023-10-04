@@ -1,0 +1,9 @@
+{
+  "credentials": {
+    "type": "client-credentials",
+    "clientId": "cke0ifjgco4rst368b50",
+    "clientSecret": "ZR0sdnBmCb50ZkLfkvD7gVnHBEiLREL3gxL7GE/G3JI4Ec36Z2BfFwWZpZGZ9GEQpucuJJrQ3wUxUn+YeZiKmFdApXf6FvvMDiE23w=="
+  },
+  "integration": "cke0ifjgco4rst368b50",
+  "apiUrl": "https://api.clarify.io/v1/"
+}
